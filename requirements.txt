@@ -1,0 +1,8 @@
+Faker==6.5.0
+itemadapter==0.2.0
+numpy==1.19.3
+pandas==1.1.5
+scikit_learn==1.0.1
+Scrapy==2.4.1
+selenium==3.141.0
+tensorflow==1.4.0
